@@ -5,7 +5,11 @@
 }
 
 /* HEADER*/
-
+/*.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}*/
 .header {
 	background-color: #35477D;
 	line-height: 2.5;
@@ -18,6 +22,12 @@
 }
 
 /* NAV */
+/*
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}*/
 
 .topnav {
 	background-color: #6c5b7b;
@@ -42,6 +52,8 @@
 .push {
 	margin-left: auto; 
 }
+
+
 /* COVER*/
 
 .cover {
